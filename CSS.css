@@ -1,0 +1,263 @@
+
+
+.cr:hover{
+    background: darkorange;
+}
+#ft:hover{
+    background: darkorange;
+}
+#te:hover{
+    background: darkorange;
+}
+
+.cr:visited{
+   color: magenta;
+   cursor: pointer;
+}
+#ft:visited{
+    color: magenta;
+    cursor: pointer;
+}
+#te:visited{
+    color: magenta;
+    cursor: pointer;
+}
+#Nevigation{
+    white-space: nowrap;
+    text-align: right;
+    display: inline;
+}
+.contact{
+     width: auto;
+     border: 3px solid brown;
+     padding: 2px;
+     margin: 1px;
+     display: inline-block;
+     position: absolute;
+     top: 8px;
+     right: 16px;
+}
+
+ .subscribe{
+     width: auto;
+     border: 3px solid brown;
+     padding: 2px;
+     margin: 1px;
+     display: inline-block;
+     position: absolute;
+     top: 8px;
+     right: 80px;
+}
+.contact:hover{
+    background: aqua;
+    display: inline;
+}
+.contact:active{
+    background: tomato;
+}
+
+.contact:visited{
+    background: crimson;
+}
+.subscribe:hover{
+    display: inline;
+    background: lightskyblue;
+}
+.subscribe:active{
+    background: firebrick;
+}
+
+.subscribe:visited{
+    background: lightseagreen;
+}
+
+body{
+    background-image: url(./images/Background-2-2\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: black;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li h2 {
+    color: midnightblue;
+    text-decoration: underline;
+    display: inline;
+}
+
+#Cricket{
+    background-color: lightsteelblue;
+    width: 300px;
+    border: 3px solid blue;
+    padding: 10px 5px;
+    margin: 30px 50px 40px 40px ;
+    height: 350px;
+    text-align: center;
+    display: inline-block;
+    overflow: auto;
+}
+
+#Cricket h2{
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  }
+
+  #Cricket img{
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    padding: 5px;
+    width: 200px;
+    height: 120px;
+  }
+
+.FootBall{
+    background-color: lightsteelblue;
+    width: 300px;
+    border: 3px solid blue;
+    padding: 10px 5px;
+    margin: 30px 50px 40px 40px;
+    height: 350px;
+    text-align: initial;
+    display: inline-block;
+    overflow: auto;
+    
+}
+
+.FootBall h2{
+        color: white;
+        text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+      }
+
+.FootBall img{
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    padding: 10px;
+    width: 200px;
+    height: 120px;
+  }
+
+
+.Tennis{
+    background-color: lightsteelblue;
+    width: 300px;
+    border: 3px solid blue;
+    padding: 10px 5px;
+    margin: 30px 50px 40px 40px ;
+    height: 350px;
+    text-align: center;
+    display: inline-block;
+    overflow: auto;
+    }
+
+    .Tennis h2{
+        color: white;
+        text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+      }
+
+      
+.Tennis img{
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    padding: 5px;
+    width: 200px;
+    height: 120px;
+  }
+
+
+
+
+ 
+footer{
+    color: white;
+    max-width: 100%;
+    background: rgb(6, 2, 73);
+    margin: 0px auto;
+    padding: 15px;
+    position: sticky;
+    top: 66px;
+}
+
+#AboutUs h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#AboutUs p{
+    border: 2px solid brown;
+    white-space: nowrap;
+    display: inline-block;
+    width: auto;
+    
+}
+
+#ContactSection{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.contact-method{
+    border: 2px solid brown;
+    white-space: nowrap;
+    display: inline-block;
+    width: 25%;
+    height: 10%;
+    
+}
+
+.contact-method h3{
+    display: inline;
+    text-decoration: underline;
+}
+
+.contact-method p{
+    display: inline-block;
+}
+
+
+#Banner img:hover{
+    padding: 3px;
+    width: 200px;
+    height: 150px;
+    margin: 0 auto;
+    position: relative;
+    white-space: nowrap;
+    
+}
+
+#Banner{
+    position: relative;
+}
+#header {
+    
+    display: inline;
+    text-align: center;
+    white-space: nowrap;
+}
+
+#header h1{
+
+    display: inline;
+    font-style: oblique;
+    margin-left: +350px;  
+    border: solid darkred;
+    border-bottom-left-radius: 50% 25%;
+    border-bottom-right-radius: 50% 25%;
+    border-top-left-radius: 50% 25%;
+    border-top-right-radius: 50% 25%;
+}
+
+#tag h2{
+    width: auto;
+    border: 3px solid darkred;
+    padding: auto;
+    background-color: lemonchiffon
+}
+
+.up{
+    color:white;
+    border: solid brown;
+}
